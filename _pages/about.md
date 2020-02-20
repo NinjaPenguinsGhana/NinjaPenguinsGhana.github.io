@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/peng.png"
+  image: "/images/peng160.png"
 ---
 
 About Ninja Penguins CloudOps
