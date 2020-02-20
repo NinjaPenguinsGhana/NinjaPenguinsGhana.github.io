@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Home"
+    url: /home/
+  - title: "News Events"
+    url: /newsevents/
+  - title: "About Us"
+    url: /about/    
+  - title: "Contact Us"
+    url: /contact/
+  - title: "Blog"
+    url: /blog/        
+  # - title: "Demos"
+  #   url: /demo/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
