@@ -4,7 +4,7 @@ title: "News and Events"
 permalink: /newsevents/
 author_profile: true
 # header:
-#   image: "/images/peng2.png"
+#   image: "/images/peng.png"
 ---
 
 
