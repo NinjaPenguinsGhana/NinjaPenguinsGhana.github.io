@@ -2,7 +2,7 @@
 title: "Home"
 permalink: /home/
 header:
-  image: "/images/np.jpg"
+  image: "/images/peng.jpg"
 ---
 
 Ninja Penguins CloudOps
